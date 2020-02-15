@@ -1,0 +1,24 @@
+div{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ebe9efde;
+    padding: 27px;
+    }
+    img{max-width: 100%}
+    h1{
+    text-align: center;
+}
+span{
+    text-transform: uppercase;
+    color: green;
+    text-shadow: 5px 6px 8px whitesmoke;
+}
+p{
+    
+color: #081fec;
+    
+font-size: 29px;
+    
+line-height: 1.3;
+}
